@@ -1,0 +1,1 @@
+  A palavra chave "new" tem a função de instanciar a classe, quando usado esse aloca um espaço na memória para que seja instanciada a classe, "new" também chama o construtor da classe.
