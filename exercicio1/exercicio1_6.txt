@@ -1,0 +1,1 @@
+Usando INT obtemos os seguintes resultados: Soma - 68 / Subtracao - 22 / Divisão - 0/ Multiplicação - 2700; Usando FLOAT obtemos os seguintes resultados: Soma - 68 / Subtracao - 22 / Divisão - 0.75/ Multiplicação - 2700; Usando DOUBLE obtemos os seguintes resultados: Soma - 68 / Subtracao - 22 / Divisão - 0.75/ Multiplicação - 2700.  
