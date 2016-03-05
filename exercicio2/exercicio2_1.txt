@@ -1,0 +1,1 @@
+  A TAD é um conjunto de dados e operações que podem ser feitas utilizando-se esses dados, uma classe é um Tipo Abstrato de Dados que possui atributos e operações, um objeto é a instância de uma classe.
