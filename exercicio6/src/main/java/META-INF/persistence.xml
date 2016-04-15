@@ -11,6 +11,8 @@
 		<class>br.com.herbertrausch.domain.Pais</class>
 		<class>br.com.herbertrausch.domain.Publicacao</class>
 		<class>br.com.herbertrausch.domain.Usuario</class>
+		<class>br.com.herbertrausch.domain.Comentario</class>
+		
 		<properties>
 			<property name="javax.persistence.jdbc.url"
 				value="jdbc:mysql://localhost:3306/fadj_jdbc?zeroDateTimeBehavior=convertToNull" />
